@@ -1,1 +1,1 @@
-# BDD_MYSQL-master
+# Gestion d'un parc informatique
